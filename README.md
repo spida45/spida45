@@ -1,5 +1,4 @@
-> I have seen the world;
-> Done it all!
+> I have seen the world, Done it all!
 > 
 > 许渊冲 译， “阅尽繁华，历尽沧桑”
 
