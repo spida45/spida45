@@ -1,9 +1,7 @@
 > I have seen the world;
 > Done it all!
 > 
-> “阅尽繁花，历尽沧桑”
-> 
-> 许渊冲·译
+> “阅尽繁华，历尽沧桑”许渊冲·译
 
 - 👋 Hi, I’m @spida45
   - A student who was kind of gamey, but now I wanna improve myself a little bit every day!  
