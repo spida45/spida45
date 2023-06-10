@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @spida45
   - A student who was kind of gamey, but now I wanna improve myself a little bit every day!  
-- 🐛 Master of AI (later this year)
+- 🐛 Master of AI, Monash University.
 - 😏 To be continued...
 - 👀 I’m interested in Algorithm and Artificial Intelligence.
 - 🌱 I’m currently learning...
