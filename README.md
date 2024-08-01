@@ -5,6 +5,7 @@
 - 👋 Hi, I’m @spida45
   - A student who was kind of gamey, but now I wanna improve myself a little bit every day!  
 - 🐛 Master of AI, Monash University.
+-    Used be a software developer for chips.
 - 😏 To be continued...
 - 👀 I’m interested in Algorithm and Artificial Intelligence.
 - 🌱 I’m currently learning...
@@ -13,7 +14,7 @@
 - 💞️ I’m looking to collaborate on ...
   - `Maybe in the future` 
 - 📫 How to reach me ...
-  - E-mail:  spida45xin@foxmail.com 
+  - E-mail:  xinyun1126@gmail.com
  
 
 <!---
